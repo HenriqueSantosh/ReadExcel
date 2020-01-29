@@ -1,0 +1,16 @@
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelRead.exe.config
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelRead.exe
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelRead.pdb
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.Properties.Resources.resources
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.csproj.GenerateResource.cache
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.exe
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.pdb
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.dll
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.pdb
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.xml
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.Form1.resources
+C:\Users\HENRIQUE\Source\Repos\R\ExcelRead\obj\Debug\ExcelRead.csproj.CopyComplete
